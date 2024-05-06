@@ -1,0 +1,44 @@
+_repo: Lansi-Intian-merisisseja_73386
+_version: 0.0.1
+alternative_title: Buccaneers and pirates of our coasts. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A. (Otto Aleksanteri)
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+creator:
+  author:
+    agent_name: Stockton, Frank R.
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_issued: '2024-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73386'
+language: fi
+pgterms:marc905: 20240405095824stockton
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile literature'
+- !lcsh 'Buccaneers -- Juvenile literature'
+- !lcc 'F2155'
+- GITenberg
+title: Länsi-Intian merisissejä
+url: http://www.gutenberg.org/ebooks/73386
