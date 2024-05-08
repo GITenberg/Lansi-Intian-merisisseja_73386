@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '33476'
     url: http://www.gutenberg.org/2009/agents/33476
     wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stockton, Frank R.
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Stockton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73386#Lansi-Intian-merisisseja
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
